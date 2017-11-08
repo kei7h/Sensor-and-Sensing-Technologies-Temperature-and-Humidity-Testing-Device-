@@ -1,1 +1,1 @@
-# Temperature-Measuring-
+# Sensors and Sensing Technologies Course Work
